@@ -1,0 +1,5 @@
+This is a sample text. 
+It is a sample.
+A sample!!
+
+EDIT - edited from nano
